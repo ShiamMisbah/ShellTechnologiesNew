@@ -1680,3 +1680,9 @@ i {
   }
   /*--------End Contact---------------*/
 /*----------Slider------------------*/
+
+
+.blogCard{
+    position: absolute;
+    padding: 1rem;
+}
